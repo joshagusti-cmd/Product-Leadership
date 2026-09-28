@@ -16,7 +16,9 @@ Scenario: Meridian (B2B construction, "The Field Gap"). Per the program's own ru
 
 **04-alignment/** - Module 4: alignment message, negotiation preparation, and proposed options. Partner responses and outcomes remain pending. Working folder name pending confirmation from the full lab guide.
 
-**05.../ through 06.../** - added as each module's lab guide specifies its own deliverable folder name.
+**05-business-case/** - Module 5: [business case one-pager](05-business-case/business-case-one-pager.md) for Rock #1, simplifying daily logs. Financial assumptions and pilot gates are hypothetical; AI stress-test is pending. Folder name is provisional.
+
+**06.../** - added when the module's deliverable instructions are supplied.
 
 ## Progress and open items
 

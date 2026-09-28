@@ -1,5 +1,14 @@
 # Project log
 
+## 2026-09-28: Module 5 business case one-pager
+
+- Added [the one-pager](05-business-case/business-case-one-pager.md) covering the strategic bet, ranked assumptions, per-account and scaled returns, and actionable kill criteria.
+- Selected Module 2 Rock #1: reduce daily-log required fields from 14 to four. This follows the lab's instruction to use a strategic Rock, rather than reusing the separate AI Bid Estimation case.
+- Explicitly labeled the financial model and experiment design hypothetical: 100 eligible accounts, $24,000 annual contract value, 85% to 90% retention, 80% margin, $40,000 build and $12,000 annual incremental operating cost.
+- Proposed staged funding: $10,000 pilot, $30,000 conditional rollout; five incremental retained accounts yield $44,000 net in a full benefit year after build and operating costs.
+- Documented an eight-week adoption stop rule and a 12-month financial stop rule. No pilot, funding approval, or AI stress-test has been completed.
+- Official submission folder name remains unconfirmed; `05-business-case/` is descriptive.
+
 ## 2026-09-28: Assigned case and funding evaluation
 
 - Recorded [Case B: Meridian AI Bid Estimation](funding-evaluation/assigned-case.md) from the supplied screenshot.
