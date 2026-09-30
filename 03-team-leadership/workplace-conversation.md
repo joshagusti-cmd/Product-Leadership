@@ -1,8 +1,8 @@
 # Module 3: Workplace conversation practice
 
-Status: Drafted on 2026-09-21. Hypothetical Meridian scenario selected by Josh for the exercise. These are practice materials, not records of actual employee behavior. The role-play and debrief have not yet occurred.
+Status: Drafted on 2026-09-21. I selected a hypothetical Meridian scenario for the exercise. These are practice materials, not records of actual employee behavior. The role-play and debrief have not yet occurred.
 
-## Step 1: Your situation
+## Step 1: My situation
 
 A product manager reporting to me has brought an executive-dashboard request back into each of our last three weekly sprint-planning meetings, despite our agreed priority of improving field adoption. They believe the dashboard should take priority because two customer renewals are at risk. These discussions have reopened prioritization decisions and reduced the time available to plan field-capture improvements. I communicated the roadmap priorities, but I did not establish how new commercial risks should trigger reconsideration or who makes that decision.
 
@@ -30,12 +30,12 @@ Status: Pending. No exchanges or debrief results are recorded because the practi
 
 ### How to complete the exercise
 
-1. Paste Step 1 into the lab's “Your situation” field.
-2. Paste Step 2 into “Diagnosis + reasoning.”
-3. Paste the two-week action and opening into the corresponding Step 3 fields.
-4. Give the AI the practice prompt below, then send the opening line. Josh plays the manager; the AI plays the product manager.
-5. Continue for three back-and-forth exchanges, then type “step out.”
-6. Record the actual debrief and revised opening after practice.
+1. I will paste Step 1 into the lab's situation field.
+2. I will paste Step 2 into “Diagnosis + reasoning.”
+3. I will paste the two-week action and opening into the corresponding Step 3 fields.
+4. I will give the AI the practice prompt below, then send the opening line. I play the manager; the AI plays the product manager.
+5. I will continue for three back-and-forth exchanges, then type “step out.”
+6. I will record the actual debrief and revised opening after practice.
 
 ### Practice prompt (adapted from the supplied lab screenshot)
 
@@ -53,4 +53,4 @@ Play the product manager reporting to me, not me. You are concerned about two cu
 
 ### Debrief
 
-Pending actual role-play. Capture what became tense, what worked, what to change, and a revised opening after completing the practice.
+Pending actual role-play. After practice, I will record what became tense, what worked, what to change, and a revised opening.

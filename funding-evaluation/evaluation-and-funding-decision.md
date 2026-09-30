@@ -14,7 +14,7 @@ The $896,000 claim credits the feature with all 32 upgrades, although 24 would a
 
 It names a measurable threshold, deadline, and consequence: below 7% upsell by the end of Q3 means pausing the feature and reallocating Q4 engineering capacity before committing headcount. It therefore does more than send the decision back for discussion. To make it executable, assign a decision owner and define the eligible cohort and measurement window. On the same 400-account base, 7% means 28 upgrades, only four above baseline and $112,000 in incremental ARR under the case's revenue assumption. That is roughly 19.3 months of simple run-rate payback, so crossing 7% does not itself prove attractive economics.
 
-## 4. Your verdict: FUND / FUND WITH ONE CONDITION / DO NOT FUND
+## 4. My verdict: FUND / FUND WITH ONE CONDITION / DO NOT FUND
 
 **FUND WITH ONE CONDITION:** Release the $180,000 build budget only after a limited validation demonstrates a credible, feature-attributable path from 6% to 8% Enterprise upsell and a revised business case based on net expansion revenue and delivery costs. This is one evidence gate before full funding; the current $896,000 claim is not sufficient justification.
 

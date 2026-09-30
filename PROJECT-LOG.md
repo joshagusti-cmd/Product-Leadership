@@ -1,5 +1,12 @@
 # Project log
 
+## 2026-09-30: Copy consistency
+
+- Removed all em dashes from repository copy.
+- Rewrote lab prompts and participant instructions in first person and replaced narrative references to Josh with first-person wording.
+- Preserved second-person language in stakeholder dialogue and AI role-play instructions where it addresses the other participant.
+
+
 ## 2026-09-30: Consolidated duplicate module folders
 
 - Moved the saved Module 3 lab to `03-team-leadership/module-3-lab.md`.
@@ -53,7 +60,7 @@ The repository's authoritative certification case is Meridian (The Field Gap). E
 
 ### Decisions captured
 
-- Josh selected a hypothetical workplace scenario for Module 3.
+- I selected a hypothetical workplace scenario for Module 3.
 - The scenario concerns a product manager repeatedly raising an executive dashboard to protect two renewals while the team prioritizes field adoption.
 - The diagnosis is clarity: leadership did not define how commercial evidence can reopen a priority decision.
 - The charter proposes a documented escalation process and review of urgent renewal risks within two business days.

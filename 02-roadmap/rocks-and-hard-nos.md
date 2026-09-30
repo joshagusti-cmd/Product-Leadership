@@ -1,6 +1,6 @@
 # Module 2 - Backlog Audit: Rocks and Hard Nos (Meridian)
 
-_Completed in the Module 2 Lab Guide (Exercise 1: Audit and Prioritize Your Backlog), reviewed and edited, then committed here. Scored against the Meridian Foundations 14-item backlog using the Impact vs. Effort matrix, north star = field adoption._
+_Completed in the Module 2 Lab Guide (Exercise 1: Audit and Prioritize the Backlog), reviewed and edited, then committed here. Scored against the Meridian Foundations 14-item backlog using the Impact vs. Effort matrix, north star = field adoption._
 
 ## Rocks
 

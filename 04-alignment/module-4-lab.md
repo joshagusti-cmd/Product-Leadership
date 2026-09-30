@@ -2,7 +2,7 @@
 
 Draft for the hypothetical Meridian: The Field Gap case. The Hard No comes from Module 2; the sales-leader stakeholder and renewal-support plan are proposed exercise details. Partner practice has not occurred. Folder name is provisional pending the official deliverable instructions.
 
-## Write your message
+## My alignment message
 
 **My Hard No from M2 is:**
 Build an executive reporting dashboard with custom KPIs (backlog item #10). We will not prioritize this dashboard in the current field-adoption roadmap, even with two renewals at risk.
@@ -16,7 +16,7 @@ Retaining revenue, preserving executive-buyer confidence, and keeping customer c
 **What stays open for them alongside the no:**
 A joint review of each customer's actual reporting need, a time-boxed account-support plan using existing reporting or data where available, and an evidence-based escalation if those options cannot address the renewal risk.
 
-**Your no, stated plainly enough to survive being repeated back:**
+**My no, stated plainly enough to survive being repeated back:**
 We are not building a custom executive KPI dashboard in the current roadmap. The team's capacity remains focused on simplified daily logs, offline capture, and photo annotation.
 
 **Hold firm on the call, stay generous: acknowledge what this costs them:**
@@ -27,7 +27,7 @@ Within two business days, the account owners, product lead, and engineering lead
 
 ## Audit and finalize
 
-**Paste your finalized alignment message here:**
+**My finalized alignment message:**
 We are not building a custom executive KPI dashboard in the current roadmap. Our capacity remains committed to simplified daily logs, offline capture, and photo annotation to improve field adoption. Moving that capacity now would delay the work intended to make Meridian useful to foremen and superintendents and improve the completeness of the project record executives rely on.
 
 I recognize that this puts you in a difficult position with two renewals at risk. You need a credible response for those buyers, and I will work with you on it.
@@ -47,12 +47,12 @@ I need focused delivery capacity to address low field adoption and improve the q
 **What is my BATNA? (What I will do if this fails):**
 If we cannot agree, I will continue the approved field-adoption roadmap, document the unresolved renewal risk, and use the charter's escalation process to obtain a product-lead decision with the account owner and engineering lead. I will not authorize an unapproved dashboard commitment. This is a decision process I can initiate without agreement on the proposed workaround.
 
-**What do I think their interest is? (Your best hypothesis):**
+**What do I think their interest is? (My best hypothesis):**
 They need to retain the accounts and show executive buyers that Meridian is responsive and valuable. Their underlying need may be credible visibility into project outcomes by the renewal deadline, rather than a custom dashboard itself. I will test that hypothesis directly.
 
 ## Observe then ask
 
-**Write down the most useful thing your partner said in response:**
+**The most useful thing my partner said in response:**
 Pending partner practice. Capture the actual statement here after the exercise. Planned question: "What must these buyers be able to see or demonstrate before renewal, and have they said a new dashboard is the only acceptable way to do that?"
 
 ## State disagreements
@@ -65,7 +65,7 @@ Keep the current roadmap and have customer success prepare a time-boxed executiv
 **Option 2:**
 Keep the current roadmap and run a short discovery effort with both buyers to define the minimum reporting outcome and assess a reusable solution for a later planning decision. Offer a specific decision-review date, without promising a build or delivery date.
 
-**Option 3 (if you find one):**
+**Option 3 (if identified):**
 If evidence shows the renewals depend on new product capability and the alternatives fail, request a formal priority exception. Engineering sizes the smallest reusable solution, and the product lead decides which Rock would move and accepts the impact on field-adoption goals before any commitment is made.
 
 ## Invite new options
@@ -76,5 +76,5 @@ Pending partner practice. Proposed agreement to test: retain the three Rocks, as
 **If we did not agree, what was the blocking issue?:**
 Pending partner practice. Potential issue to test: whether the buyers require a committed dashboard delivery date or will accept another way to obtain the reporting outcome. Record the actual blocker after the discussion.
 
-**Did you share your full interest, or only your position?:**
+**Did I share my full interest, or only my position?:**
 Pending partner practice. My intended full interest is to preserve delivery focus, improve field adoption, protect retention, and maintain credible customer commitments. After practice, assess whether I explained those interests or merely repeated the no.
