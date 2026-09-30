@@ -10,7 +10,7 @@
 - **The path forward, named specifically:** Within two business days, the account owners, product lead, and engineering lead will review renewal deadlines, required KPIs, revenue exposure, and whether a dashboard is truly a renewal condition. We will assess existing reporting options and assign an owner to an interim reporting brief for each account. Within one week, we will validate that alternative with the buyers. If it falls short, we will escalate the evidence and identify which roadmap work a dashboard would displace before making a delivery commitment.
 
 ## Audit and finalize
-- **My finalized alignment message.:** We are not building a custom executive KPI dashboard in the current roadmap. Our capacity remains committed to simplified daily logs, offline capture, and photo annotation. These priorities address low field adoption and improve the completeness of the project records executives rely on.
+- **My finalized alignment message:** We are not building a custom executive KPI dashboard in the current roadmap. Our capacity remains committed to simplified daily logs, offline capture, and photo annotation. These priorities address low field adoption and improve the completeness of the project records executives rely on.
 
 I recognize that this puts you in a difficult position with two renewals at risk. You need a credible response for those buyers, and I will work with you on it.
 
