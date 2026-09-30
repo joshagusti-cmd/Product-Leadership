@@ -1,5 +1,13 @@
 # Project log
 
+## 2026-09-30: Consolidated duplicate module folders
+
+- Moved the saved Module 3 lab to `03-team-leadership/module-3-lab.md`.
+- Moved the separately saved Module 4 answers to `04-alignment/module-4-lab-saved-responses.md`.
+- Preserved both Module 4 versions and all original lab content; no answers were merged or overwritten.
+- Removed the now-empty duplicate folders and updated the README to identify each version.
+- Modules now have one top-level folder each, ordered 01 through 05.
+
 ## 2026-09-28: Module 5 business case one-pager
 
 - Added [the one-pager](05-business-case/business-case-one-pager.md) covering the strategic bet, ranked assumptions, per-account and scaled returns, and actionable kill criteria.
